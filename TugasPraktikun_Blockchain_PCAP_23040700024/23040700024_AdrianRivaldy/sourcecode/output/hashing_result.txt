@@ -1,0 +1,35 @@
+==============================================================================
+HASHING RESULT - SHA-256
+==============================================================================
+NIM terdeteksi : 23040700024
+
+Evidence #1
+Nama file     : PCAP01_23040700024.pcap
+Jumlah paket  : 30
+Ukuran file   : 4.755 bytes (4.64 KiB)
+SHA-256       : 9d9b93bb2dabd09826b72e233ce9f5fef375272e5d9a57cbfac3828280c44b19
+------------------------------------------------------------------------------
+Evidence #2
+Nama file     : PCAP02_23040700024.pcap
+Jumlah paket  : 50
+Ukuran file   : 27.806 bytes (27.15 KiB)
+SHA-256       : 64dbdbbe99aa0f0bbc5147f6015d901d03a00bb7a88ccf1ae053d52f2cc01957
+------------------------------------------------------------------------------
+Evidence #3
+Nama file     : PCAP03_23040700024.pcap
+Jumlah paket  : 70
+Ukuran file   : 38.519 bytes (37.62 KiB)
+SHA-256       : fca35ebe5588f2db60a05eea3b7aa343fd622341293bc5852e24acf315d93fd1
+------------------------------------------------------------------------------
+Evidence #4
+Nama file     : PCAP04_23040700024.pcap
+Jumlah paket  : 90
+Ukuran file   : 26.939 bytes (26.31 KiB)
+SHA-256       : a094c2dfaf3fc5976d55328f5442a5f5486555f69469c955cfc976eaf9e0d04a
+------------------------------------------------------------------------------
+Evidence #5
+Nama file     : PCAP05_23040700024.pcap
+Jumlah paket  : 100
+Ukuran file   : 46.088 bytes (45.01 KiB)
+SHA-256       : 81229bd9ed9a12b2cb2b828016b7d94fff9f4c7546aab893547c64bba2371d87
+------------------------------------------------------------------------------

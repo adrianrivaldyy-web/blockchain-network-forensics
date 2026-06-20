@@ -1,0 +1,9 @@
+==============================================================================
+VALIDATION RESULT
+==============================================================================
+Blockchain Validation : VALID
+Previous Hash       : SESUAI
+Block Hash          : SESUAI
+Evidence Hash       : SESUAI
+Packet Count        : SESUAI
+Integritas Chain    : TERJAGA
