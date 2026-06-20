@@ -100,7 +100,3 @@ Integritas Chain    : TERJAGA
 ```
 
 Hasil tersebut menunjukkan bahwa setiap block terhubung dengan benar, block hash sesuai dengan perhitungan ulang, dan hash file PCAP masih sama dengan hash yang disimpan dalam blockchain.
-
-## Video Demonstrasi
-
-Tambahkan link video demonstrasi di sini apabila diperlukan.
